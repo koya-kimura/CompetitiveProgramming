@@ -7,7 +7,6 @@ t = 0
 for i in range(N):
     T.append(A[i]/B[i])
     t += A[i]/B[i]
-
 t /= 2
 
 _t = 0
